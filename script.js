@@ -1,0 +1,1 @@
+document.getElementById('start').onclick=function(){document.getElementById('msg').innerHTML='<h2>Checklist SSA próximamente</h2>';};
